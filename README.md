@@ -1,6 +1,6 @@
-# bulb_plugin: ^0.0.1
+# bulb_plugin: ^0.0.2
 
-A Flutter package to control smart bulbs with color, size, and gesture support.
+A Flutter plugin to control smart bulbs with color, size, and gesture support.
 
 ## Features
 - Change bulb color dynamically
@@ -11,4 +11,4 @@ A Flutter package to control smart bulbs with color, size, and gesture support.
 Add this to your `pubspec.yaml`:
 ```yaml
 dependencies:
-  bulb_plugin: ^0.0.1
+  bulb_plugin: ^0.0.2
